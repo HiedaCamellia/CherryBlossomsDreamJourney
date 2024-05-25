@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/crop",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "crop": "cherry_blossoms_dream_journey:block/azuki_bean_crop_block_stage0"
+  }
+}

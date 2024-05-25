@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cherry_blossoms_dream_journey:item/sakura_branch"
+  }
+}
